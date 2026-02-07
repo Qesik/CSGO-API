@@ -128,11 +128,11 @@ export const LANGUAGES_URL = [
     //     folder: "pirate",
     //     url: getLanguageUrl("pirate"),
     //   },
-    // {
-    //     language: "polish",
-    //     folder: "pl",
-    //     url: getLanguageUrl("polish"),
-    // },
+    {
+        language: "polish",
+        folder: "pl",
+        url: getLanguageUrl("polish"),
+    },
     // {
     //     language: "portuguese",
     //     folder: "pt-PT",
