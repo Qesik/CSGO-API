@@ -1768,6 +1768,542 @@
   }
  },
  {
+  "id": "skin-b8f492474850",
+  "name": "★ Driver Gloves | Brocade Crane",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_crane_red",
+   "name": "Brocade Crane"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1399",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-d9b9add3d4ae",
+  "name": "★ Driver Gloves | Brocade Flowers",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_flower_red",
+   "name": "Brocade Flowers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1400",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f9ff211df27d",
+  "name": "★ Driver Gloves | Dragon Fists",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_dragon_scale_red",
+   "name": "Dragon Fists"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1401",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-2d7a4c354277",
+  "name": "★ Driver Gloves | Garden",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_embroidered_flowers_teal",
+   "name": "Garden"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1402",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-25977544c37d",
+  "name": "★ Driver Gloves | Hand Sweaters",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_knit_argyle_green",
+   "name": "Hand Sweaters"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1439",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-c79f644ef9e1",
+  "name": "★ Driver Gloves | Plum Quill",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_ostrich_purple",
+   "name": "Plum Quill"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1412",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f31ff8147493",
+  "name": "★ Driver Gloves | Seigaiha",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_scallop_metallic_blue",
+   "name": "Seigaiha"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1404",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-b1dcd2af898f",
+  "name": "★ Driver Gloves | Wave Chaser",
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Driver Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_driver_silk_dragon_white",
+   "name": "Wave Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1398",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
   "id": "skin-e8384ee7aa31",
   "name": "★ Driver Gloves | Lunar Weave",
   "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation. Midnight blue suede has been interwoven with jet black leather to give these gloves a timeless look.\\n\\n<i>Keeps the blood off your hands...metaphorically speaking</i>",
@@ -2652,6 +3188,475 @@
   }
  },
  {
+  "id": "skin-7b77498783da",
+  "name": "★ Specialist Gloves | Lime Polycam",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_abstract_green",
+   "name": "Lime Polycam"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1413",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-1f8f2cadf55b",
+  "name": "★ Specialist Gloves | Cloud Chaser",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_dragon_blue",
+   "name": "Cloud Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1440",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6d087aad2621",
+  "name": "★ Specialist Gloves | Blackbook",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_graffiti_black",
+   "name": "Blackbook"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1414",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-cc0d5dff95fc",
+  "name": "★ Specialist Gloves | Chocolate Chesterfield",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_black",
+   "name": "Chocolate Chesterfield"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1415",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-da1393aefb9c",
+  "name": "★ Specialist Gloves | Pillow Punchers",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_white",
+   "name": "Pillow Punchers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1438",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-aba169232063",
+  "name": "★ Specialist Gloves | Sunburst",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_sunburst_red",
+   "name": "Sunburst"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1416",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6977cd7028dd",
+  "name": "★ Specialist Gloves | Big Swell",
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Specialist Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_specialist_wave_blue",
+   "name": "Big Swell"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1437",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
   "id": "skin-fabc9079a914",
   "name": "★ Specialist Gloves | Forest DDPAT",
   "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. The hand stitched leather has been paired with rugged DDPAT printed fabric.\\n\\n<i>Some people don't like getting their hands dirty</i>",
@@ -3533,6 +4538,475 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJp-hnWyyhnRg_jDGMnYftb3qWagQlX8EjF7YIuhK9m9XiNO2x7gOPjY5HzHj7iiwcv3xi4-pQAPc7uvqAbB4ER4o",
   "original": {
    "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-0f6327fef452",
+  "name": "★ Sport Gloves | Violet Beadwork",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_beadwork_diamonds_purple",
+   "name": "Violet Beadwork"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1405",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-c747da872a60",
+  "name": "★ Sport Gloves | Frosty",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_camo_winter",
+   "name": "Frosty"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1406",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-4a3cb425ea4e",
+  "name": "★ Sport Gloves | Blaze",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching. It has been painted by airbrushing transparent paints over a chrome base coat.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_flames_orange",
+   "name": "Blaze"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1407",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-1cd6adc6787e",
+  "name": "★ Sport Gloves | Creme Pinstripe",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_pinstripe_black",
+   "name": "Creme Pinstripe"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1408",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-01ecc031f210",
+  "name": "★ Sport Gloves | Red Racer",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_racer_red",
+   "name": "Red Racer"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1409",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-635fbb080d7c",
+  "name": "★ Sport Gloves | Ultra Violent",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_tech_gradient_bright",
+   "name": "Ultra Violent"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1410",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-9ff0ea2301d4",
+  "name": "★ Sport Gloves | Occult",
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Sport Gloves"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Gloves"
+  },
+  "pattern": {
+   "id": "glove_sport_velvet_red",
+   "name": "Occult"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1417",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
   }
  },
  {
@@ -5304,6 +6778,79 @@
   }
  },
  {
+  "id": "skin-f64cdaac0b90",
+  "name": "AK-47 | Crane Flight",
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "ak47_crane_flight",
+   "name": "Crane Flight"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1425",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-4c2e3face5fd",
   "name": "AK-47 | Searing Rage",
   "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. This custom, art brut paint job depicts the scattered thoughts of a once sane member of the Elite Crew.\\n\\n<i>RU$HKILLxDESTROY//NOxFEAR-ATTACKBURN!TERROR</i>",
@@ -5356,7 +6903,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -5429,7 +6976,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -5502,7 +7049,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -7267,7 +8814,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -7401,7 +8948,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -8452,7 +9999,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -8461,7 +10008,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_gsch_ak_djiin_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI7PqRaa9SJPqaB2mvzedxuPUnGCi3wktzt2rRn92pdXuXbA4iDcdxQOIMsBK4k9S2Zeiw4lTdjdhNyTK-0H1wmrL4zA",
   "original": {
    "name": "weapon_ak47"
   }
@@ -8519,7 +10066,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -9085,7 +10632,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -9161,7 +10708,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_hye_zeds_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC6s20baB-H_yaCW-Ej-olseI8Gyq1kBkh4GrVz4queXySPAd0XJEkQ7UMu0TrldaxYbzjsw3Ay9USrh0CgFA",
   "original": {
    "name": "weapon_ak47"
   }
@@ -9219,7 +10766,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -9286,7 +10833,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -9353,7 +10900,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -10426,7 +11973,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -10504,7 +12051,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -10577,7 +12124,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -11155,7 +12702,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -11701,7 +13248,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -12148,7 +13695,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -12663,7 +14210,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_soe_aug_creep_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1e0PO7b5tuMvWWHlicyOl-pK9oSnnnkRl34WqBwtavcH6TagRxWZR2E7FYuhm9wIblZr60slHXjYtM02yg2RFs1ez8",
   "original": {
    "name": "weapon_aug"
   }
@@ -13564,7 +15111,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -13637,7 +15184,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -13715,7 +15262,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -13731,6 +15278,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OK8Yap5M-SBC2ad_uJ_t-l9AX_qlk4k5GyAzo6ocC-QZgZxX8AjEbZY5xnrxtPjM7vnsgGIj9oTmXngznQeg3pfcPs",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-66197377b028",
+  "name": "AWP | Queen's Gambit",
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "awp_queens_gambit",
+   "name": "Queen's Gambit"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Covert",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1422",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -14971,7 +16591,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -15044,7 +16664,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -15734,7 +17354,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -16353,7 +17973,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -16496,7 +18116,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_hye_firework_patches_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf9Tte0PSneqF6L-KYMXeR1e1-tfJWQyC0nQlp4W7Xzd-qcH_DO1N0W5FzQuEP5kW8ltfnM-q24wzYgt0RmC_7jSlL5jErvbgX7dER8Q",
   "original": {
    "name": "weapon_awp"
   }
@@ -16563,7 +18183,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_soe_bw_the_end_awp_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf7i1e0PC5V7BlJc-WAGOvwPlmj-1gSCGn20hytjzSy4r_cy_FZlB1DJdxE7QN50bql4LuNL7g4gTYj9lGnir9iyJXrnE8dWNkiOM",
   "original": {
    "name": "weapon_awp"
   }
@@ -19998,6 +21618,79 @@
   }
  },
  {
+  "id": "skin-fb5805d13a5e",
+  "name": "PP-Bizon | RMX",
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "bizon_rmx",
+   "name": "RMX"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1418",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
   "id": "skin-5e748c63e9a7",
   "name": "PP-Bizon | Osiris",
   "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with a high-tech design in black, white, and amber.",
@@ -21651,7 +23344,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -21727,7 +23420,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_car_wrap_bizon_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9veRa6V_H-eBD3evw-dsv-9WQyC0nQlp6zzdzI6rIHOealMiCJolEOVb5EPrx9PuN7_i5lHW2d9NySj2jy9N6DErvbhOwQNAJg",
   "original": {
    "name": "weapon_bizon"
   }
@@ -21794,7 +23487,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_geobirds_sunrise_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9veRb6FiIvmBCnSv0vt4ouh6Sha_nBovp3PRmdysdHLCZwUjDsB1FOcJ4BW4mobhZu3q7wyKj4MTzCj2jHhJu30-_a9cBrr9UcuO",
   "original": {
    "name": "weapon_bizon"
   }
@@ -22539,7 +24232,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -22665,7 +24358,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -23493,7 +25186,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -24746,7 +26439,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_hye_paisley_desat_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9veReKVkM_yWF1iUxP13pN5lRi67gVN2tW3Sntuvd3OROFUoXsB2Q-9Zs0Hqlta0Pujr7waIiYJAxS-sjy0c8G81tBzzAWSY",
   "original": {
    "name": "weapon_cz75a"
   }
@@ -25096,7 +26789,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -26106,7 +27799,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -27149,7 +28842,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -27216,7 +28909,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -27289,7 +28982,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -27305,6 +28998,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_OSAmuZxvx3tudWQyC0nQlp52rQmNv_IC7DaFR0ApB4QbMKs0W8k9zuPr6xtAGMjoITmymohyMa6jErvbhrxmEjWA",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
+  "id": "skin-2bcac1c42296",
+  "name": "Desert Eagle | Firebreathing",
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "deagle_firebreathing",
+   "name": "Firebreathing"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1430",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png",
   "original": {
    "name": "weapon_deagle"
   }
@@ -27362,7 +29128,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -27762,7 +29528,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -28275,7 +30041,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_hye_car_wrap_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-urV6dsMs-EHGaA_uJ_t-l9AXm3kxh162qHy9-pd3PEagMmDJMkRuEK4BG4x9zhZe-07gPdiotMyivgznQej0ovEM4",
   "original": {
    "name": "weapon_deagle"
   }
@@ -28400,7 +30166,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -29457,7 +31223,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -29745,7 +31511,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -29818,7 +31584,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -31193,7 +32959,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -31260,7 +33026,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -31336,7 +33102,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_soe_acrylic_flow3_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I4PeRaad_OfyaDViWzeFh495lRi67gVN3tmnTn4yreXvFZgYjD8QlE-QK4EGxkda0Ze20tQbZ2Y9CyS_5iC1K8G81tJXDIHOE",
   "original": {
    "name": "weapon_elite"
   }
@@ -31394,7 +33160,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -33003,7 +34769,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -33441,7 +35207,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -33508,7 +35274,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -33586,7 +35352,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -33978,7 +35744,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_hye_firework_patches_famas_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1T9veRbq1_JeecHGyv0e9is-lsXBa1lBAmoAKJk4jxNWWUaVN2DsB5Re4D4BLuxoDvP-PmsQffioJFnnqv3y1A7C9r5-tUUPd35OSJ2E5Oe0pX",
   "original": {
    "name": "weapon_famas"
   }
@@ -34114,7 +35880,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -34190,7 +35956,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_soe_bw_blast_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4PeRarNSIvySHXOvzedxuPUnSS-3wEx362jWw9eodnLGaFMhCZUlQO5etBe_k9XlNuvkslDcg91FxDK-0H3uRMe02w",
   "original": {
    "name": "weapon_famas"
   }
@@ -34248,7 +36014,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -34807,7 +36573,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -35196,7 +36962,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -36319,6 +38085,79 @@
   }
  },
  {
+  "id": "skin-19e064301c88",
+  "name": "Five-SeveN | Dark Polymer",
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "fiveseven_polymer_dark",
+   "name": "Dark Polymer"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1429",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
   "id": "skin-df168db99441",
   "name": "Five-SeveN | Boost Protocol",
   "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted using high contrast colors. The robot icon beneath the rear sight matches the art on the slide.\\n\\n<i>Callsign: MECHA 0272</i>",
@@ -37036,7 +38875,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -37573,7 +39412,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -37649,7 +39488,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_soe_pink_cranes_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6toH-CaAGyvwvx3vuR6cCW6khUz_WmHno2ueSmRbFAmC8MjF7EPsBDtwdDkZe_n41fYithDzyWo2CwY6nx1o7FVHGyLYB0",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -37707,7 +39546,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -39775,7 +41614,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -39915,7 +41754,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -40584,7 +42423,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -41278,7 +43117,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -41414,7 +43253,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -41430,6 +43269,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PWvZK1hH_OcAHOCzuJJo_V7RiK2qhEutDWR1Nmvcn6RPFVxW5txTbRZuxDuxNKzZu2x7wCMiNpExCSshyof7Xlt5-scEf1y6paUA5M",
+  "original": {
+   "name": "weapon_galilar"
+  }
+ },
+ {
+  "id": "skin-8571b4f29f98",
+  "name": "Galil AR | Galigator",
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "weapon": {
+   "id": "weapon_galilar",
+   "weapon_id": 13,
+   "name": "Galil AR"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "galil_galigator",
+   "name": "Galigator"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1434",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png",
   "original": {
    "name": "weapon_galilar"
   }
@@ -42523,7 +44435,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_hye_earth_mandala_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3bZtoIeKHBlidwOByse1ocCW6khUz_WzSy42rcS3CbwMkD5Z0TOAOsBDswNfhZu3q5w3ajdpNzSj-ii9P7nl1o7FVbxi6bE4",
   "original": {
    "name": "weapon_galilar"
   }
@@ -42581,7 +44493,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -42640,7 +44552,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -42852,7 +44764,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -42919,7 +44831,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -42986,7 +44898,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -43440,7 +45352,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -46056,7 +47968,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -46072,6 +47984,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tuKP-eHmKC_uJ_t-l9ASvik00m5TmEzd-geSiQPARxX5IiTLIMtBW4l9zmNuPr4VbbjItHxC_gznQeqLQCTjk",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-ec359b168d17",
+  "name": "Glock-18 | Fully Tuned",
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "glock_jdpeek",
+   "name": "Fully Tuned"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Covert",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1421",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png",
   "original": {
    "name": "weapon_glock"
   }
@@ -46129,7 +48114,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -46202,7 +48187,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -46275,7 +48260,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -46718,7 +48703,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -46794,7 +48779,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_ht_white_edges_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1T-825YK15Jc-WCmCV0tF6ueZhW2fiw0Ujt2yGy4ysIHzEaQUlWJJyE-dbsBK5x4XjM7ix7gDeiYkUmy6okGoXubB2-hmv",
   "original": {
    "name": "weapon_glock"
   }
@@ -47163,7 +49148,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -47236,7 +49221,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -47741,7 +49726,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -47906,7 +49891,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -49771,7 +51756,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -50062,7 +52047,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -50135,7 +52120,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -50375,7 +52360,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_soe_p2000_grips_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhbZt9cqDDXliX0-dmo95lRi67gVMlsj7SmNiuIHmfaA4gDZEhQeBZuxa7m4CxYu-w7geL2osRxS6qiSIc8G81tBwotro2",
   "original": {
    "name": "weapon_hkp2000"
   }
@@ -50433,7 +52418,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -50626,7 +52611,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -88031,7 +90016,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -88308,7 +90293,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_hye_m249_car_wrap_3_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC6s2jOvA0H_OSHFiH0-9mj7JWQyC0nQlp6zzQwtiudHvCO1MlDJByQuIC4UO7lta0Zuy0swPZiNhDxSv33C0f6zErvbjSvv-GUg",
   "original": {
    "name": "weapon_m249"
   }
@@ -88366,7 +90351,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -88376,6 +90361,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC4M2kfapqLPWsCmKDwPpJvOhuRz39lkUisWTSmIz7I3uValQjXMEmE-AO4Ea9k9HvZLy27g2P3otEnnj8iDQJsHjxYKi7jg",
+  "original": {
+   "name": "weapon_m249"
+  }
+ },
+ {
+  "id": "skin-526e890d5739",
+  "name": "M249 | Bock Blocks",
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "weapon": {
+   "id": "weapon_m249",
+   "weapon_id": 14,
+   "name": "M249"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "m249_blocks_purple",
+   "name": "Bock Blocks"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1435",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png",
   "original": {
    "name": "weapon_m249"
   }
@@ -88433,7 +90491,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -90479,7 +92537,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -91352,7 +93410,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -91974,7 +94032,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_hye_abstract_knot_m4_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC6s2vard5MvGQGlibz-Fij-w9cCW6khUz_TvQnt37cS_EaQAgDMciEbVb4EK4ktzvZb_ltlOI3o4RmHmt23xKvSh1o7FVNKLRyHM",
   "original": {
    "name": "weapon_m4a1"
   }
@@ -92032,7 +94090,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -92099,7 +94157,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -92172,7 +94230,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -92245,7 +94303,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -92339,6 +94397,79 @@
   }
  },
  {
+  "id": "skin-ca4c3950bda2",
+  "name": "M4A4 | Zubastick",
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "m4a4_zubastick_bw",
+   "name": "Zubastick"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1432",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-81eee26a1c31",
   "name": "M4A1-S | Fade",
   "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
@@ -92379,7 +94510,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -93932,7 +96063,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -94678,7 +96809,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -94823,7 +96954,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -95006,7 +97137,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -95286,7 +97417,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_animal_print_90s_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -95365,6 +97496,79 @@
   }
  },
  {
+  "id": "skin-62ecfa87b86d",
+  "name": "M4A1-S | Electrum",
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "m4a1s_electrum",
+   "name": "Electrum"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1433",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
   "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
@@ -95417,7 +97621,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -95490,7 +97694,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -95641,7 +97845,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -95883,7 +98087,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -96267,7 +98471,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -98653,7 +100857,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -99388,7 +101592,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_hye_car_wrap4_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRa6V_H-eBD3fE_uJ_t-l9ASrklhkk4Wrdm9msIy3DblVyA5cmQLMDtxS_ltPmYe_msgbeiY5EziTgznQeYbrm-7Y",
   "original": {
    "name": "weapon_mac10"
   }
@@ -99446,7 +101650,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -99513,7 +101717,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -99653,7 +101857,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -99726,7 +101930,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -99799,7 +102003,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -99877,7 +102081,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -100322,7 +102526,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -102771,7 +104975,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -102844,7 +105048,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -102984,7 +105188,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -103460,7 +105664,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -104655,7 +106859,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -104915,7 +107119,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -104991,7 +107195,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_hye_mp5_car_wrap4_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1T9veRZbQ4H_OSHFiH0-9m5N5lRi67gVMk5WXQztarIHiVbQ8lApF2F7QN5xS_xtfnNujqswTWidhAnyr3jngc8G81tMzA05Bb",
   "original": {
    "name": "weapon_mp5sd"
   }
@@ -105049,7 +107253,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -105122,7 +107326,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -105271,7 +107475,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_soe_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4PeReqFpH_yaCW-Ej7sk5OBtGnDmwE4i526Dm9msI3LBbldxWcAiF7ZftBG5kdWzNLzi5wbAy9US1mpPgEo",
   "original": {
    "name": "weapon_mp5sd"
   }
@@ -105329,7 +107533,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -105388,7 +107592,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -106588,7 +108792,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -107504,7 +109708,80 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_hye_paisley_warm_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Tte0OKvYbdhJemsGWaCzNF6ueZhW2fklEV-sGvUzdigdX2WbgciCZQjRe9b50Xqm4bkMevj5gaMgo1AnCiskGoXuQsY-r8v",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
+  "id": "skin-55d44f236355",
+  "name": "MP7 | Amberline",
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "mp7_amberline",
+   "name": "Amberline"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1436",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png",
   "original": {
    "name": "weapon_mp7"
   }
@@ -107635,7 +109912,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -107708,7 +109985,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -110024,7 +112301,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -110321,7 +112598,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -110534,7 +112811,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -110601,7 +112878,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -110986,7 +113263,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -111053,7 +113330,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -111120,7 +113397,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -111136,6 +113413,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-36e373c7de1c",
+  "name": "MP9 | Urban Sovereign",
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "mp9_urban_sovereign",
+   "name": "Urban Sovereign"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1423",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -111193,7 +113543,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -111491,7 +113841,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -111567,7 +113917,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_ddpat_swirl_bw_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1e0PaqeKV5H-OEB3Wc_uxhj-1gSCGn204k5mXQwoz4dnrDaQ92CMB3R7FZtxa4mtfkZuyx5gHb2YNNz336jyxXrnE8H46mzhg",
   "original": {
    "name": "weapon_mp9"
   }
@@ -111634,7 +113984,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_yellow_bits_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1e0OurZKhiN8-RB3OD_uJ_t-l9ASrhzRt062_Qm4n8cn-XbFQkCcMkTLQD5EW8m9TjM--34gXf2Y1Hzn_gznQepx3qArs",
   "original": {
    "name": "weapon_mp9"
   }
@@ -112823,7 +115173,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -113530,7 +115880,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -113597,7 +115947,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -115047,7 +117397,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -115613,7 +117963,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -116274,7 +118624,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_hye_geobirds_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwipC6s2pbatvKeKXHVicyOl-pK87TSrqzBwisWXTz9qvJXnFOgcnW5J1RLEPuhe_mtHgPuqws1SPi4tA02yg2UgVtCWp",
   "original": {
    "name": "weapon_nova"
   }
@@ -116405,7 +118755,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -116478,7 +118828,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -116809,7 +119159,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -116876,7 +119226,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -117405,7 +119755,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -118247,7 +120597,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -120750,7 +123100,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_hye_car_wrap_3_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC6s2tabZSN-KSHljD_uJ_t-l9AXCwxhwi6j_Syoysc36TbAAhXpYiRuIPshLsk4bnYemw7wCKiNoUyC7gznQekhpLnpY",
   "original": {
    "name": "weapon_p250"
   }
@@ -120808,7 +123158,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -120875,7 +123225,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -120948,7 +123298,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -120964,6 +123314,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRYal9IfOHMWuZxuZi_rg5TnvmzB916m_dm92pdH6eOwJ2DpVyQ7JftUXtwIK2MLiz7wTXjYtbjXKpkd0OdLY",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
+  "id": "skin-2f5828f37817",
+  "name": "P250 | Kintsugi",
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "p250_kintsugi",
+   "name": "Kintsugi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1420",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png",
   "original": {
    "name": "weapon_p250"
   }
@@ -121021,7 +123444,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -121288,7 +123711,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -121355,7 +123778,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -121593,7 +124016,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -123393,7 +125816,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -123898,7 +126321,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -124405,7 +126828,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -124652,7 +127075,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_hye_abstract_knot_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Tte0POse7B_IfOHMWyezvpJvOhuRz39zER2tWvVyd2qdXOeaVN2WJV3Qu9Z50GwxNa1NLji4gPfjINDziv8iDQJsHgxRzCSnw",
   "original": {
    "name": "weapon_p90"
   }
@@ -124710,7 +127133,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -124777,7 +127200,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -124844,7 +127267,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -124860,6 +127283,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0PChZ7d5H_KfG2KvzedxuPUnTHrlzU9xt2qHzd-rJ3yQb1cmXJNzF-Vc5BS6wdLjMe60tAyP3dhNzTK-0H3NvEQllg",
+  "original": {
+   "name": "weapon_p90"
+  }
+ },
+ {
+  "id": "skin-612576d81a84",
+  "name": "P90 | Deathgaze",
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "weapon": {
+   "id": "weapon_p90",
+   "weapon_id": 19,
+   "name": "P90"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "p90_deathgaze",
+   "name": "Deathgaze"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1419",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png",
   "original": {
    "name": "weapon_p90"
   }
@@ -124917,7 +127413,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -124990,7 +127486,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -125763,7 +128259,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -126413,7 +128909,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -127466,7 +129962,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -127779,7 +130275,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_copper_accent_revolver_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_OcHneV09F3s-JsQT2MhxgxvDGTn53GLSLANkI-C5d5Q7EK4xLpxtDhY-vksleP3d1DzXn52itKvCxstewGVKosqPDTiRaBb-Oa78uGvw",
   "original": {
    "name": "weapon_revolver"
   }
@@ -127837,7 +130333,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -127913,7 +130409,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_smoke_grips_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH-OeAWyV_ulkufF6cCW6khUz_WqGmNatdnzDbAR0CcR2FLQO4UKxxNfuM-rj4QzX3YsTziuqiHgf7351o7FV2A-FKGc",
   "original": {
    "name": "weapon_revolver"
   }
@@ -129683,7 +132179,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -130276,7 +132772,80 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_hye_batik_eyes_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcaFSIvGHB2yvxPdzo95lRi67gVNxsGjUzIz9ci7DblclD5d1Ee5esEO4mt3vN7_g5VeIj4xAzi2r23kb8G81tFlYllZq",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
+  "id": "skin-39ceb900b437",
+  "name": "Sawed-Off | Fusion",
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "sawedoff_fusion",
+   "name": "Fusion"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1427",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png",
   "original": {
    "name": "weapon_sawedoff"
   }
@@ -131316,7 +133885,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -132392,7 +134961,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_hye_chrome_ripple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-urV6dlMv-eC1iCyP5mvORWQyC0nQlpsD7Qydr6dSjEO1MnD5RzRuUIskPpl9zmN-7i5FbYj49NmXj4jXhP6TErvbhHIJnnmg",
   "original": {
    "name": "weapon_scar20"
   }
@@ -132450,7 +135019,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -132523,7 +135092,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -132596,7 +135165,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -134671,7 +137240,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -135103,7 +137672,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -135179,7 +137748,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sg556_hye_animal_print_lc_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T9veRaapkLfGfMXeCyOBij-1qcCW6khUz_T_Rn9qoIn-Sb1MkX5B3RecL4EXsltXmP-u0tgbbj4tEyHn7334a6Ch1o7FVNpTVjWQ",
   "original": {
    "name": "weapon_sg556"
   }
@@ -135511,7 +138080,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -137757,7 +140326,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -137833,7 +140402,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_ht_red_edges_fineline_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T-828baBSJfSUC3Svx-d4te1gQSyMmRQguynLwov6JHmRagd0WcBxQuYItxWxlYLgM--z4gDXjthGnnmqjXxAvSpqtfFCD_S8UR_TMg",
   "original": {
    "name": "weapon_ssg08"
   }
@@ -137891,7 +140460,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -138389,7 +140958,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_hye_comic_shapes_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9veRa6tgKfOsHW-R0etlj-1gSCGn20wl5W3VmImqcCmWOlAjXpolR-MP50Wwl9DmMOix5QXZ2d5EzSWqi3tXrnE8nx7Jn58",
   "original": {
    "name": "weapon_ssg08"
   }
@@ -138447,7 +141016,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -138514,7 +141083,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -138793,7 +141362,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -138860,7 +141429,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -139353,7 +141922,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -139499,7 +142068,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -139572,7 +142141,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -139645,7 +142214,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -139721,7 +142290,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_hye_earth_mandala_lc_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1T9veRbaV_NPisA2aexe96sd5lTBa_nBovp3PWyYr_I3OXbQJxXJIkF7FY4BS_l4e0Ybnl4Vba2INGyy2tiXhAvHw9_a9cBgJStbOC",
   "original": {
    "name": "weapon_taser"
   }
@@ -139779,7 +142348,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -139846,7 +142415,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -139997,7 +142566,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -142698,7 +145267,7 @@
    "name": "Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_hye_batik_eyes_tec9_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC6s2sabBkK8-WF2KD_vpzs7hWQyC0nQlpsWnRz9atIH3Gag4oCpQjFucP4Rfux9PuNr7j7wDZ3tgTny3_h3xPvzErvbgFFfz3Tg",
   "original": {
    "name": "weapon_tec9"
   }
@@ -142756,7 +145325,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -142901,7 +145470,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -143035,7 +145604,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -143113,7 +145682,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -143180,7 +145749,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -143247,7 +145816,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -145288,7 +147857,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -146086,7 +148655,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_hye_test_animal_print_45_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9veRfKF-NM-SAG6dwOJJoPNgQT2MwUgYvzSCkpu3dnuUalN2X5IjRe5fsUa9xoeyN-rr7waMiINDnC7_jnlI6ixq5OpWWb1lpPMCclDonA",
   "original": {
    "name": "weapon_ump45"
   }
@@ -146329,7 +148898,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -146865,7 +149434,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -146938,7 +149507,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -147011,7 +149580,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -147027,6 +149596,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1O4uL6PZtiLPSsDWaC1eF5vt5lRi67gVN2tWXTzI6tc3rGPQ4kWJUiQrJf4RPskIW2ZO3r4VaKi9hFyX-qhy0a8G81tA_18T9p",
+  "original": {
+   "name": "weapon_ump45"
+  }
+ },
+ {
+  "id": "skin-40743fbc40a8",
+  "name": "UMP-45 | Fragment",
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "ump_fragment",
+   "name": "Fragment"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1426",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png",
   "original": {
    "name": "weapon_ump45"
   }
@@ -147084,7 +149726,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -149100,7 +151742,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -149167,7 +151809,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -149702,7 +152344,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -149778,7 +152420,7 @@
    "name": "Counter-Terrorist"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_soe_purple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM_-WMXeF0_56td5lRi67gVMh4D-Gn4qheH6RPFIoCcAhELVf5kK-xNexMe_rtFfai45EnC_8iH9I8G81tAH9GDu2",
   "original": {
    "name": "weapon_usp_silencer"
   }
@@ -149836,7 +152478,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -150267,7 +152909,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -150340,7 +152982,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -150429,6 +153071,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViUzulxqd5lRi67gVMl62nUyd2scnOVPAcgA5J2TOFY5xLrlN22YbzgsQaI2IlHyiWojnwa8G81tErOD-_J",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
+  "id": "skin-12f8829b002d",
+  "name": "USP-S | Silent Shot",
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "usps_silent_boy",
+   "name": "Silent Shot"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1431",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png",
   "original": {
    "name": "weapon_usp_silencer"
   }
@@ -151612,7 +154327,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -152285,7 +155000,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -152352,7 +155067,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -152419,7 +155134,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -152998,7 +155713,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -153277,7 +155992,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -153353,7 +156068,7 @@
    "name": "Both Teams"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_soe_yellow_xm_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_P2rV71oLPycGViIzNF6ueZhW2fhkEpz5T7dw9-tJ3-Rb1cpD8chR7JZuxXsloe0Ybux4VDY2N1CnH6vkGoXuebNu3Fx",
   "original": {
    "name": "weapon_xm1014"
   }
@@ -153690,7 +156405,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -153841,7 +156556,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
