@@ -151780,6 +151780,465 @@
   }
  },
  {
+  "id": "crate-5181",
+  "name": "Sealed Dead Hand Terminal",
+  "description": null,
+  "def_index": "5181",
+  "type": null,
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "standardowej jakości",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "skin-526e890d5739",
+    "name": "M249 | Bock Blocks",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1435",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png"
+   },
+   {
+    "id": "skin-ca4c3950bda2",
+    "name": "M4A4 | Zubastick",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1432",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png"
+   },
+   {
+    "id": "skin-40743fbc40a8",
+    "name": "UMP-45 | Fragment",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1426",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png"
+   },
+   {
+    "id": "skin-39ceb900b437",
+    "name": "Obrzyn | Fusion",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1427",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png"
+   },
+   {
+    "id": "skin-19e064301c88",
+    "name": "Five-SeveN | Dark Polymer",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1429",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png"
+   },
+   {
+    "id": "skin-12f8829b002d",
+    "name": "USP-S | Silent Shot",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1431",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png"
+   },
+   {
+    "id": "skin-fb5805d13a5e",
+    "name": "PP-Bizon | RMX",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "wojskowej jakości",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1418",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png"
+   },
+   {
+    "id": "skin-2bcac1c42296",
+    "name": "Desert Eagle | Firebreathing",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "spoza obiegu",
+     "color": "#8847ff"
+    },
+    "paint_index": "1430",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png"
+   },
+   {
+    "id": "skin-62ecfa87b86d",
+    "name": "M4A1-S | Electrum",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "spoza obiegu",
+     "color": "#8847ff"
+    },
+    "paint_index": "1433",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png"
+   },
+   {
+    "id": "skin-55d44f236355",
+    "name": "MP7 | Amberline",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "spoza obiegu",
+     "color": "#8847ff"
+    },
+    "paint_index": "1436",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png"
+   },
+   {
+    "id": "skin-8571b4f29f98",
+    "name": "Galil AR | Galigator",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "spoza obiegu",
+     "color": "#8847ff"
+    },
+    "paint_index": "1434",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png"
+   },
+   {
+    "id": "skin-36e373c7de1c",
+    "name": "MP9 | Urban Sovereign",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "spoza obiegu",
+     "color": "#8847ff"
+    },
+    "paint_index": "1423",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png"
+   },
+   {
+    "id": "skin-f64cdaac0b90",
+    "name": "AK-47 | Crane Flight",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "klasy „poufne”",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1425",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png"
+   },
+   {
+    "id": "skin-2f5828f37817",
+    "name": "P250 | Kintsugi",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "klasy „poufne”",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1420",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png"
+   },
+   {
+    "id": "skin-612576d81a84",
+    "name": "P90 | Deathgaze",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "klasy „poufne”",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1419",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png"
+   },
+   {
+    "id": "skin-66197377b028",
+    "name": "AWP | Queen's Gambit",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "klasy „tajne”",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1422",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png"
+   },
+   {
+    "id": "skin-ec359b168d17",
+    "name": "Glock-18 | Fully Tuned",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "klasy „tajne”",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1421",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png"
+   }
+  ],
+  "contains_rare": [
+   {
+    "id": "skin-b8f492474850",
+    "name": "Rękawiczki samochodowe (★) | Brocade Crane",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1399",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png"
+   },
+   {
+    "id": "skin-d9b9add3d4ae",
+    "name": "Rękawiczki samochodowe (★) | Brocade Flowers",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1400",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png"
+   },
+   {
+    "id": "skin-f9ff211df27d",
+    "name": "Rękawiczki samochodowe (★) | Dragon Fists",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1401",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png"
+   },
+   {
+    "id": "skin-2d7a4c354277",
+    "name": "Rękawiczki samochodowe (★) | Garden",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1402",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png"
+   },
+   {
+    "id": "skin-25977544c37d",
+    "name": "Rękawiczki samochodowe (★) | Hand Sweaters",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1439",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png"
+   },
+   {
+    "id": "skin-c79f644ef9e1",
+    "name": "Rękawiczki samochodowe (★) | Plum Quill",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1412",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png"
+   },
+   {
+    "id": "skin-f31ff8147493",
+    "name": "Rękawiczki samochodowe (★) | Seigaiha",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1404",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png"
+   },
+   {
+    "id": "skin-b1dcd2af898f",
+    "name": "Rękawiczki samochodowe (★) | Wave Chaser",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1398",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png"
+   },
+   {
+    "id": "skin-7b77498783da",
+    "name": "Rękawice specjalistyczne (★) | Lime Polycam",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1413",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light_png.png"
+   },
+   {
+    "id": "skin-1f8f2cadf55b",
+    "name": "Rękawice specjalistyczne (★) | Cloud Chaser",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1440",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light_png.png"
+   },
+   {
+    "id": "skin-6d087aad2621",
+    "name": "Rękawice specjalistyczne (★) | Blackbook",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1414",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light_png.png"
+   },
+   {
+    "id": "skin-cc0d5dff95fc",
+    "name": "Rękawice specjalistyczne (★) | Chocolate Chesterfield",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1415",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png"
+   },
+   {
+    "id": "skin-da1393aefb9c",
+    "name": "Rękawice specjalistyczne (★) | Pillow Punchers",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1438",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png"
+   },
+   {
+    "id": "skin-aba169232063",
+    "name": "Rękawice specjalistyczne (★) | Sunburst",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1416",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png"
+   },
+   {
+    "id": "skin-6977cd7028dd",
+    "name": "Rękawice specjalistyczne (★) | Big Swell",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1437",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png"
+   },
+   {
+    "id": "skin-0f6327fef452",
+    "name": "Rękawice sportowe (★) | Violet Beadwork",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1405",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light_png.png"
+   },
+   {
+    "id": "skin-c747da872a60",
+    "name": "Rękawice sportowe (★) | Frosty",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1406",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png"
+   },
+   {
+    "id": "skin-4a3cb425ea4e",
+    "name": "Rękawice sportowe (★) | Żar",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1407",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png"
+   },
+   {
+    "id": "skin-1cd6adc6787e",
+    "name": "Rękawice sportowe (★) | Creme Pinstripe",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1408",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png"
+   },
+   {
+    "id": "skin-01ecc031f210",
+    "name": "Rękawice sportowe (★) | Red Racer",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1409",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png"
+   },
+   {
+    "id": "skin-635fbb080d7c",
+    "name": "Rękawice sportowe (★) | Ultra Violent",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1410",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png"
+   },
+   {
+    "id": "skin-9ff0ea2301d4",
+    "name": "Rękawice sportowe (★) | Occult",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "wyjątkowej jakości",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1417",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Dead Hand Terminal",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png",
+  "model_player": "models/props/ad_laptop/ad_laptop_community_37.vmdl",
+  "loot_list": {
+   "name": "★ Rękawice ★",
+   "footer": "lub niezwykle rzadkie rękawice!",
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/default_rare_item_png.png"
+  },
+  "original": {
+   "item_name": "#CSGO_crate_community_37",
+   "image_inventory": "econ/weapon_cases/crate_community_37_closed"
+  }
+ },
+ {
   "id": "crate-5216",
   "name": "Pojemnik z naklejką legendy StarLadder Budapest 2025",
   "description": "Ten pojemnik zawiera pojedynczą papierową, haftowaną, holograficzną lub złotą naklejkę jednej z legend StarLadder Budapest 2025.\\n\\n50% wpływów ze sprzedaży tego pojemnika zostanie przeznaczonych na wsparcie organizacji biorących udział w tym turnieju.\\n\\nTa naklejka może zostać naklejona na twoją dowolną broń. Naklejka może zostać podrapana, aby wyglądała na nieco zużytą. Możesz podrapać tę samą naklejkę kilkukrotnie, za każdym razem uszkadzając ją bardziej, dopóki nie zostanie ona usunięta z broni.",
