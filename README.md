@@ -2,42 +2,46 @@
 
 Welcome to the unofficial JSON API for Counter-Strike 2. This API provides access to various data aspects of the game, parsed into JSON format for easier integration and use.
 
-Data are sourced from files maintained at [this repository](https://github.com/ByMykel/counter-strike-file-tracker/tree/main/static).
-
 ## Usage
 
-This API currently supports **2 languages**. To access information in a specific language, replace `{language}` in the URL with one of the supported language codes listed below.
+This fork currently ships **2 languages**. Replace `{language}` in the URL with one of the folder codes below:
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/{language}
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/{language}
 ```
 
 ## Currently Supported Languages
 
-| Language Name         | Language Code |
-| --------------------- | ------------- |
-| English               | en            |
-| Chinese (Simplified)  | zh-CN         |
+`en`, `pl`
 
 ## Adding More Languages
 
-If you need support for additional languages, you can:
+By default this fork generates only the languages defined in [`constants.js`](constants.js), which are currently `en` and `pl`.
 
-1. **Fork this repository**
-2. **Uncomment the desired languages** in `constants.js` (lines 24-173)
-3. **Run the update scripts** to generate the language files:
-   ```bash
-   npm run update-data-force
-   npm run group-data-force
-   ```
+### Locally
 
-The following languages are available but commented out in the codebase:
-- Bulgarian (bg), Czech (cs), Danish (da), German (de), Greek (el)
-- Spanish Mexico (es-MX), Finnish (fi), French (fr), Hungarian (hu)
-- Italian (it), Japanese (ja), Korean (ko), Dutch (nl), Norwegian (no)
-- Polish (pl), Portuguese Portugal (pt-PT), Romanian (ro)
-- Swedish (sv), Thai (th), Turkish (tr), Ukrainian (uk)
-- Chinese Traditional (zh-TW), Vietnamese (vi)
+```bash
+npm install
+npm run update-data-force
+npm run group-data-force
+```
+
+You can still override that and run an explicit set of folder codes:
+
+```bash
+node update.js --force --languages en,pl
+node group.js --force --languages en,pl
+```
+
+### In a fork
+
+Set `LANGUAGES` under **Settings → Secrets and variables → Actions → Variables** (value: `en,ru,uk`, or `all` for every language). Scheduled runs use it automatically. To override once, go to **Actions → Update and Group JSON API → Run workflow** and fill the `languages` input (it takes priority over the variable).
+
+### Available folder codes
+
+`en`, `pl`
+
+Full list with display names in [`constants.js`](constants.js).
 
 ### All items
 
