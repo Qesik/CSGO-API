@@ -1,52 +1,46 @@
-# Introduction
+# Qesik CSGO-API fork
 
-Welcome to the unofficial JSON API for Counter-Strike 2. This API provides access to various data aspects of the game, parsed into JSON format for easier integration and use.
+This fork of [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) publishes the unofficial Counter-Strike 2 JSON API in **English (`en`) and Polish (`pl`)**.
 
 ## Usage
-
-This fork currently ships **2 languages**. Replace `{language}` in the URL with one of the folder codes below:
 
 ```http
 GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/{language}
 ```
 
-## Currently Supported Languages
+Replace `{language}` with `en` or `pl`. This fork does not maintain generated output for other languages.
 
-`en`, `pl`
+## Generation
 
-## Adding More Languages
+The complete upstream language registry is retained in [`constants.js`](constants.js). Generation requires explicit language selection; this fork's package scripts select only `en,pl`.
 
-By default this fork generates only the languages defined in [`constants.js`](constants.js), which are currently `en` and `pl`.
-
-### Locally
+Use Node.js 24, as in the upstream GitHub Actions workflow, and install the locked dependencies:
 
 ```bash
-npm install
+npm ci --no-audit --no-fund
 npm run update-data-force
 npm run group-data-force
 ```
 
-You can still override that and run an explicit set of folder codes:
+The force scripts run:
 
 ```bash
 node update.js --force --languages en,pl
 node group.js --force --languages en,pl
 ```
 
-### In a fork
+For a refresh that respects the game-manifest and image-mapping cache checks, use `npm run update-data` followed by `npm run group-data`. Run `npm run generate-docs` after generation to update the API documentation.
 
-Set `LANGUAGES` under **Settings → Secrets and variables → Actions → Variables** (value: `en,ru,uk`, or `all` for every language). Scheduled runs use it automatically. To override once, go to **Actions → Update and Group JSON API → Run workflow** and fill the `languages` input (it takes priority over the variable).
+### GitHub Actions
 
-### Available folder codes
+Set the repository Actions variable **`LANGUAGES=en,pl`** under **Settings > Secrets and variables > Actions > Variables**. The existing **Update and Group JSON API** workflow uses that variable unless its manual `languages` input overrides it; keep that input set to `en,pl` for this fork. The optional `force` input bypasses generation cache checks.
 
-`en`, `pl`
-
-Full list with display names in [`constants.js`](constants.js).
+The workflow currently supports manual dispatch and the `game-images-updated` repository event; it has no scheduled trigger. Configuring the variable does not synchronize upstream code or arrange upstream notifications to this fork.
 
 ### All items
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/all.json
 ```
 
 Object with all items accessible by their id.
@@ -54,7 +48,7 @@ Object with all items accessible by their id.
 ### List skins
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins.json
 ```
 
 Example response:
@@ -128,7 +122,7 @@ Example response:
 ### List skins not grouped
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins_not_grouped.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins_not_grouped.json
 ```
 
 Similar to the previous but in this case is not grouped by wear (Factory New, Field-Tested, etc) and state (normal, stattrak, souvenir).
@@ -191,7 +185,7 @@ Example response:
 ### List stickers
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/stickers.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/stickers.json
 ```
 
 Example response:
@@ -231,7 +225,7 @@ Example response:
 ### List sticker slabs
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/sticker_slabs.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/sticker_slabs.json
 ```
 
 Example response:
@@ -282,7 +276,7 @@ Example response:
 ### List keychains (charms)
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keychains.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keychains.json
 ```
 
 Example response:
@@ -294,6 +288,7 @@ Example response:
     name: "Charm | Lil' Ava",
     description:
       "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    icon_base: "kc_missinglink",
     rarity: {
       id: "rarity_rare",
       name: "High Grade",
@@ -318,7 +313,7 @@ Example response:
 ### List collections
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collections.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collections.json
 ```
 
 Example response:
@@ -328,6 +323,8 @@ Example response:
   {
     id: "collection-set-community-3",
     name: "The Huntsman Collection",
+    description: null,
+    release_date: "2014-05-02",
     crates: [
       {
         id: "crate-4017",
@@ -363,7 +360,7 @@ Example response:
 This list includes cases, capsules, graffiti boxes, music kit boxes and souvenir packages.
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/crates.json
 ```
 
 Example response:
@@ -425,7 +422,7 @@ Example response:
 ### List keys
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keys.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keys.json
 ```
 
 Example response:
@@ -457,7 +454,7 @@ Example response:
 ### List collectibles
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collectibles.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collectibles.json
 ```
 
 Example response:
@@ -487,7 +484,7 @@ Example response:
 ### List agents
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/agents.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/agents.json
 ```
 
 Example response:
@@ -527,7 +524,7 @@ Example response:
 ### List patches
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/patches.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/patches.json
 ```
 
 Example response:
@@ -555,7 +552,7 @@ Example response:
 ### List graffiti
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/graffiti.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/graffiti.json
 ```
 
 Example response:
@@ -567,6 +564,7 @@ Example response:
     name: "Sealed Graffiti | Chabo",
     description:
       "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+    tint: null,
     rarity: {
       id: "rarity_rare",
       name: "High Grade",
@@ -591,7 +589,7 @@ Example response:
 ### List music kits
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/music_kits.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/music_kits.json
 ```
 
 Example response:
@@ -620,7 +618,7 @@ Example response:
 ### List base weapons
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/base_weapons.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/base_weapons.json
 ```
 
 Example response:
@@ -640,34 +638,78 @@ Example response:
 ### List highlights
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highlights.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/highlights.json
 ```
 
 ```js
 [
   {
-    id: "aus2025_chopper2kvsmouzonmirage1",
+    id: "highlight-1",
+    def_index: "1",
     name: "Souvenir Charm | Austin 2025 Highlight | chopper Double Kill",
     description: "chopper gets a double kill on the A-site defense from Balcony on Mirage.",
     tournament_event: "Austin 2025",
     team0: "Team Spirit",
     team1: "MOUZ",
     stage: "Quarterfinal",
+    tournament_player: "chopper", // null when type is "team"
+    type: "player", // "player" or "team"
     map: "de_mirage",
     market_hash_name: "Souvenir Charm | Austin 2025 Highlight | chopper Double Kill",
     image: "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/aus2025/kc_aus2025_png.png",
-    video: "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/024/081v106_005/024_081v106_005_de_mirage_aus2025_chopper2kvsmouzonmirage1_ww_1080p.webm"
+    video: "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/024/081v106_005/024_081v106_005_de_mirage_aus2025_chopper2kvsmouzonmirage1_ww_1080p.webm",
+    thumbnail: "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/1.webp",
+    original: {
+      id: "aus2025_chopper2kvsmouzonmirage1",
+      image_inventory: "econ/keychains/aus2025/kc_aus2025",
+    },
   },
+]
+```
+
+### List pets
+
+```http
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/pets.json
+```
+
+One entry per pet and style. Adult chickens have a `style` (their breed color); the egg and the chick don't. The game has no inventory images for chickens, so they are rendered from the game models by the [image tracker](https://github.com/ByMykel/counter-strike-image-tracker).
+
+```js
+[
+  {
+    id: "pet-5_9",
+    pet_id: "5",
+    style: 9, // null for pets without styles
+    name: "Pet Chicken | Polish (Pink)",
+    description: null,
+    breed: "Polish", // null for pets without styles
+    color: "Pink", // null for pets without styles
+    rarity: {
+      id: "rarity_rare",
+      name: "High Grade",
+      color: "#4b69ff",
+    },
+    image: "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/pets/chicken_polish_pink.png",
+    original: {
+      name: "chicken_polish_01",
+      loc_name: "#pet_chicken",
+      pedestal_display_model: "models/chicken/chicken_polish.vmdl",
+      image_inventory: null,
+      material: "chicken_polish_pink",
+    },
+  },
+  // ...
 ]
 ```
 
 ### Inventory
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/inventory.json
+GET https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/inventory.json
 ```
 
-Object with all items organized by category (skins, crates, collectibles, stickers, graffiti, music_kits, keychains, highlights, agents, patches, keys, sticker_slabs, tools). Skins are keyed by weapon_id and paint_index. Other items are keyed by def_index.
+Object with all items organized by category (skins, crates, collectibles, stickers, graffiti, music_kits, keychains, highlights, agents, patches, keys, sticker_slabs, tools, pets). Skins are keyed by weapon_id and paint_index. Pets are keyed by pet id and style (`<pet_id>_<style>`, or `<pet_id>` for pets without styles). Other items are keyed by def_index.
 
 Example response:
 

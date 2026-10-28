@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <!-- Primary Meta Tags -->
-        <title>CSGO API</title>
+        <title>Qesik CSGO API</title>
         <meta name="title" content="CSGO API" />
         <meta
             name="description"
@@ -16,7 +16,7 @@
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bymykel.github.io/CSGO-API/" />
+        <meta property="og:url" content="https://github.com/Qesik/CSGO-API" />
         <meta property="og:title" content="CSGO API" />
         <meta
             property="og:description"
@@ -26,7 +26,7 @@
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bymykel.github.io/CSGO-API/" />
+        <meta property="twitter:url" content="https://github.com/Qesik/CSGO-API" />
         <meta property="twitter:title" content="CSGO API" />
         <meta
             property="twitter:description"
@@ -510,6 +510,7 @@
                             <div><a href="#list-music-kits" class="nav-link block">List music kits</a></div>
                             <div><a href="#list-base-weapons" class="nav-link block">List base weapons</a></div>
                             <div><a href="#list-highlights" class="nav-link block">List highlights</a></div>
+                            <div><a href="#list-pets" class="nav-link block">List pets</a></div>
                             <div><a href="#inventory" class="nav-link block">Inventory</a></div>
                         </div>
                     </nav>
@@ -541,6 +542,7 @@
                         <div><a href="#list-music-kits" class="nav-link block">List music kits</a></div>
                         <div><a href="#list-base-weapons" class="nav-link block">List base weapons</a></div>
                         <div><a href="#list-highlights" class="nav-link block">List highlights</a></div>
+                        <div><a href="#list-pets" class="nav-link block">List pets</a></div>
                         <div><a href="#inventory" class="nav-link block">Inventory</a></div>
                     </div>
                 </div>
@@ -552,7 +554,7 @@
                         <h1 class="section-heading">Introduction</h1>
 
                         <p class="mt-4 text-base md:text-lg text-slate-700 mb-6 leading-relaxed">
-                            Welcome to the unofficial JSON API for Counter-Strike 2. This API provides access
+                            Welcome to Qesik's fork of the unofficial JSON API for Counter-Strike 2. This API provides access
                             to various data aspects of the game, parsed into JSON format for easier
                             integration and use.
                         </p>
@@ -561,7 +563,7 @@
                             You can find this project source code
                             <a
                                 class="hover:underline text-indigo-600 font-medium hover:text-indigo-700 transition-colors"
-                                href="https://github.com/ByMykel/CSGO-API"
+                                href="https://github.com/Qesik/CSGO-API"
                                 target="_blank"
                                 >on GitHub</a
                             >.
@@ -572,7 +574,7 @@
                                 <span class="text-indigo-400 font-semibold text-sm">BASE URL</span>
                             </div>
                             <div class="base-url-content">
-                                https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/{language}
+                                https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/{language}
                             </div>
                         </div>
 
@@ -590,39 +592,30 @@
                         </div>
 
                         <div class="info-box">
-                            <h3>Need more languages?</h3>
+                            <h3>Generate English and Polish data</h3>
                             <p class="mb-4">
-                                By default this fork generates only the languages
-                                defined in <code>constants.js</code>.
+                                This fork publishes only <code>en</code> and <code>pl</code>.
+                                The upstream language registry is retained internally; the package scripts
+                                explicitly select <code>--languages en,pl</code>.
                             </p>
-
-                            <p class="mb-2"><strong>Locally</strong></p>
-                            <pre class="mb-4"><code>npm install
+                            <p class="mb-2"><strong>Locally (Node.js 24)</strong></p>
+                            <pre class="mb-4"><code>npm ci --no-audit --no-fund
 npm run update-data-force
-npm run group-data-force</code></pre>
+npm run group-data-force
+npm run generate-docs</code></pre>
                             <p class="mb-4">
-                                You can still override the set explicitly with
-                                <code>--languages en,pl</code>.
+                                These force scripts bypass the game-manifest and image-mapping cache checks.
+                                The equivalent commands are <code>node update.js --force --languages en,pl</code>
+                                and <code>node group.js --force --languages en,pl</code>.
                             </p>
-
-                            <p class="mb-2"><strong>In a fork</strong></p>
+                            <p class="mb-2"><strong>GitHub Actions</strong></p>
                             <p class="mb-4">
-                                Set <code>LANGUAGES</code> under
-                                <strong>Settings → Secrets and variables → Actions → Variables</strong>
-                                (value: <code>en,ru,uk</code>, or <code>all</code>).
-                                Scheduled runs use it.
-                                To override once: <strong>Actions → Update and Group JSON API → Run workflow</strong>,
-                                fill the <code>languages</code> input (takes priority
-                                over the variable).
+                                Set the repository Actions variable <code>LANGUAGES=en,pl</code> under
+                                <strong>Settings &gt; Secrets and variables &gt; Actions &gt; Variables</strong>.
+                                The manual <code>languages</code> input takes priority; keep it set to
+                                <code>en,pl</code>. The workflow supports manual dispatch and the
+                                <code>game-images-updated</code> repository event, with no scheduled trigger.
                             </p>
-
-                            <p class="mb-2">
-                                <strong>Available folder codes:</strong>
-                            </p>
-                            <div class="mt-2">
-                                <span class="language-code">en</span>
-                                <span class="language-code">pl</span>
-                            </div>
                         </div>
                     </div>
 
@@ -641,7 +634,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/all.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/all.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -691,7 +684,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/skins.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -739,15 +732,15 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">pattern</span>
-                                <span class="structure-type type-object">(object)</span> - Pattern/skin design
+                                <span class="structure-type type-object">(object|null)</span> - Pattern/skin design
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">min_float</span>
-                                <span class="structure-type type-number">(number)</span> - min float
+                                <span class="structure-type type-number">(number|null)</span> - min float
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">max_float</span>
-                                <span class="structure-type type-number">(number)</span> - max float
+                                <span class="structure-type type-number">(number|null)</span> - max float
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">rarity</span>
@@ -759,23 +752,31 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">souvenir</span>
-                                <span class="structure-type type-boolean">(boolean)</span> - souvenir
+                                <span class="structure-type type-boolean">(boolean, optional)</span> - souvenir
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">paint_index</span>
-                                <span class="structure-type type-string">(string)</span> - paint index
+                                <span class="structure-type type-string">(string|null)</span> - Paint kit index
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">wears</span>
-                                <span class="structure-type type-array">(array)</span> - Available wear conditions
+                                <span class="structure-type type-array">(array, optional)</span> - Available wear conditions
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">collections</span>
-                                <span class="structure-type type-array">(array)</span> - Collections containing this item
+                                <span class="structure-type type-array">(array, optional)</span> - Collections containing this item
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">crates</span>
                                 <span class="structure-type type-array">(array)</span> - Crates containing this item
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">phase</span>
+                                <span class="structure-type type-string">(string, optional)</span> - Doppler phase
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">team</span>
@@ -810,7 +811,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/skins_not_grouped.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins_not_grouped.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins_not_grouped.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -862,19 +863,19 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">pattern</span>
-                                <span class="structure-type type-object">(object)</span> - Pattern/skin design
+                                <span class="structure-type type-object">(object, optional)</span> - Pattern/skin design
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">min_float</span>
-                                <span class="structure-type type-number">(number)</span> - min float
+                                <span class="structure-type type-number">(number, optional)</span> - min float
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">max_float</span>
-                                <span class="structure-type type-number">(number)</span> - max float
+                                <span class="structure-type type-number">(number, optional)</span> - max float
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">wear</span>
-                                <span class="structure-type type-object">(object)</span> - Specific wear condition
+                                <span class="structure-type type-object">(object, optional)</span> - Specific wear condition
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">stattrak</span>
@@ -882,19 +883,27 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">souvenir</span>
-                                <span class="structure-type type-boolean">(boolean)</span> - souvenir
+                                <span class="structure-type type-boolean">(boolean, optional)</span> - souvenir
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">paint_index</span>
-                                <span class="structure-type type-string">(string)</span> - paint index
+                                <span class="structure-type type-string">(string|null)</span> - Paint kit index
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">rarity</span>
                                 <span class="structure-type type-object">(object)</span> - Rarity with color
                             </div>
                             <div class="structure-item ml-4">
+                                <span class="structure-key">phase</span>
+                                <span class="structure-type type-string">(string, optional)</span> - Doppler phase
+                            </div>
+                            <div class="structure-item ml-4">
                                 <span class="structure-key">market_hash_name</span>
                                 <span class="structure-type type-string">(string)</span> - Market hash name
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">team</span>
@@ -933,7 +942,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/stickers.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/stickers.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/stickers.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -980,6 +989,10 @@ npm run group-data-force</code></pre>
                                 <span class="structure-type type-object">(object)</span> - Rarity with color
                             </div>
                             <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
+                            </div>
+                            <div class="structure-item ml-4">
                                 <span class="structure-key">crates</span>
                                 <span class="structure-type type-array">(array)</span> - Crates containing this item
                             </div>
@@ -1001,7 +1014,15 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">tournament</span>
-                                <span class="structure-type type-object">(object)</span> - Tournament information
+                                <span class="structure-type type-object">(object, optional)</span> - Tournament information
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">team</span>
+                                <span class="structure-type type-object">(object, optional)</span> - Team information (CT/T)
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">player</span>
+                                <span class="structure-type type-object">(object, optional)</span> - Player information
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">image</span>
@@ -1028,7 +1049,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/sticker_slabs.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/sticker_slabs.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/sticker_slabs.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1075,6 +1096,10 @@ npm run group-data-force</code></pre>
                                 <span class="structure-type type-object">(object)</span> - Rarity with color
                             </div>
                             <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
+                            </div>
+                            <div class="structure-item ml-4">
                                 <span class="structure-key">crates</span>
                                 <span class="structure-type type-array">(array)</span> - Crates containing this item
                             </div>
@@ -1096,7 +1121,15 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">tournament</span>
-                                <span class="structure-type type-object">(object)</span> - Tournament information
+                                <span class="structure-type type-object">(object, optional)</span> - Tournament information
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">team</span>
+                                <span class="structure-type type-object">(object, optional)</span> - Team information (CT/T)
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">player</span>
+                                <span class="structure-type type-object">(object, optional)</span> - Player information
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">image</span>
@@ -1123,7 +1156,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/keychains.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keychains.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keychains.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1164,6 +1197,10 @@ npm run group-data-force</code></pre>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">def_index</span>
                                 <span class="structure-type type-string">(string)</span> - Definition index
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">icon_base</span>
+                                <span class="structure-type type-string">(string)</span> - Keychain family
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">rarity</span>
@@ -1202,7 +1239,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/collections.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collections.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collections.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1235,6 +1272,14 @@ npm run group-data-force</code></pre>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">name</span>
                                 <span class="structure-type type-string">(string)</span> - Item name
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">description</span>
+                                <span class="structure-type type-string">(string|null)</span> - Item description
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">release_date</span>
+                                <span class="structure-type type-string">(string|null)</span> - Release date, can differ from the first_sale_date of the linked crate
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">crates</span>
@@ -1269,7 +1314,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/crates.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/crates.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1305,7 +1350,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">description</span>
-                                <span class="structure-type type-string">(string)</span> - Item description
+                                <span class="structure-type type-string">(string|null)</span> - Item description
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">def_index</span>
@@ -1317,7 +1362,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">first_sale_date</span>
-                                <span class="structure-type type-string">(string)</span> - First sale date
+                                <span class="structure-type type-string">(string|null)</span> - First sale date
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">rarity</span>
@@ -1332,8 +1377,12 @@ npm run group-data-force</code></pre>
                                 <span class="structure-type type-array">(array)</span> - Rare items (knives, etc.)
                             </div>
                             <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
+                            </div>
+                            <div class="structure-item ml-4">
                                 <span class="structure-key">market_hash_name</span>
-                                <span class="structure-type type-string">(string)</span> - Market hash name
+                                <span class="structure-type type-string">(string|null)</span> - Market hash name
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">rental</span>
@@ -1349,7 +1398,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">loot_list</span>
-                                <span class="structure-type type-string">(string|null)</span> - loot list
+                                <span class="structure-type type-object">(object|null)</span> - Loot list information
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">original</span>
@@ -1372,7 +1421,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/keys.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keys.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keys.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1420,7 +1469,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">market_hash_name</span>
-                                <span class="structure-type type-string">(string)</span> - Market hash name
+                                <span class="structure-type type-string">(string|null)</span> - Market hash name
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">marketable</span>
@@ -1451,7 +1500,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/collectibles.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collectibles.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collectibles.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1487,7 +1536,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">description</span>
-                                <span class="structure-type type-string">(string)</span> - Item description
+                                <span class="structure-type type-string">(string|null)</span> - Item description
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">def_index</span>
@@ -1504,6 +1553,10 @@ npm run group-data-force</code></pre>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">genuine</span>
                                 <span class="structure-type type-boolean">(boolean)</span> - Whether it's genuine
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">premier_season</span>
+                                <span class="structure-type type-number">(number, optional)</span> - Premier season number
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">market_hash_name</span>
@@ -1534,7 +1587,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/agents.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/agents.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/agents.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1621,7 +1674,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/patches.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/patches.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/patches.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1696,7 +1749,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/graffiti.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/graffiti.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/graffiti.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1739,8 +1792,20 @@ npm run group-data-force</code></pre>
                                 <span class="structure-type type-string">(string)</span> - Definition index
                             </div>
                             <div class="structure-item ml-4">
+                                <span class="structure-key">color_index</span>
+                                <span class="structure-type type-number">(number, optional)</span> - Graffiti tint index
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">tint</span>
+                                <span class="structure-type type-object">(object|null)</span> - Graffiti tint with hex color
+                            </div>
+                            <div class="structure-item ml-4">
                                 <span class="structure-key">rarity</span>
                                 <span class="structure-type type-object">(object)</span> - Rarity with color
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">special_notes</span>
+                                <span class="structure-type type-array">(array, optional)</span> - Interesting facts about the item, each with a source link
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">crates</span>
@@ -1748,7 +1813,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">market_hash_name</span>
-                                <span class="structure-type type-string">(string)</span> - Market hash name
+                                <span class="structure-type type-string">(string|null)</span> - Market hash name
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">image</span>
@@ -1775,7 +1840,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/music_kits.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/music_kits.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/music_kits.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1854,7 +1919,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/base_weapons.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/base_weapons.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/base_weapons.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1890,7 +1955,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">description</span>
-                                <span class="structure-type type-string">(string)</span> - Item description
+                                <span class="structure-type type-string">(string|null)</span> - Item description
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">def_index</span>
@@ -1902,7 +1967,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">image</span>
-                                <span class="structure-type type-string">(string)</span> - Image URL
+                                <span class="structure-type type-string">(string|null)</span> - Image URL
                             </div>
                         </div>
                     </div>
@@ -1921,7 +1986,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/highlights.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highlights.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/highlights.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -1981,7 +2046,7 @@ npm run group-data-force</code></pre>
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">tournament_player</span>
-                                <span class="structure-type type-string">(string)</span> - Tournament player name
+                                <span class="structure-type type-string">(string|null)</span> - Tournament player name
                             </div>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">type</span>
@@ -2015,6 +2080,89 @@ npm run group-data-force</code></pre>
                     </div>
                     <hr />
 
+                    <div id="list-pets" class="mb-12">
+                        <h1 class="section-heading">List pets</h1>
+
+                        <p class="mt-2 text-base md:text-lg text-slate-700 mb-6 leading-relaxed">
+                            Returns an array of pets, one entry per pet and style (breed color).
+                        </p>
+
+                        <div class="request-info">
+                            <div class="flex items-center">
+                                <span class="request-method">GET</span>
+                                <span class="font-mono text-slate-200">/pets.json</span>
+                            </div>
+                            <a
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/pets.json"
+                                target="_blank"
+                                class="hover:scale-110 transition-transform duration-200"
+                            >
+                                <svg
+                                    class="request-icon"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                >
+                                    <path
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                        stroke-width="2"
+                                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                                    ></path>
+                                </svg>
+                            </a>
+                        </div>
+
+                        <div class="response-structure">
+                            <h4 class="text-slate-200 font-semibold mb-3">Response Structure</h4>
+                            <div class="structure-item">
+                                <span class="structure-key">Array</span> of objects with:
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">id</span>
+                                <span class="structure-type type-string">(string)</span> - Unique identifier
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">pet_id</span>
+                                <span class="structure-type type-string">(string)</span> - pet id
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">style</span>
+                                <span class="structure-type type-number">(number|null)</span> - Finish style information
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">name</span>
+                                <span class="structure-type type-string">(string)</span> - Item name
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">description</span>
+                                <span class="structure-type type-string">(string|null)</span> - Item description
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">breed</span>
+                                <span class="structure-type type-string">(string|null)</span> - breed
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">color</span>
+                                <span class="structure-type type-string">(string|null)</span> - color
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">rarity</span>
+                                <span class="structure-type type-object">(object)</span> - Rarity with color
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">image</span>
+                                <span class="structure-type type-string">(string)</span> - Image URL
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">original</span>
+                                <span class="structure-type type-object">(object)</span> - Original item data
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+
                     <div id="inventory" class="mb-12">
                         <h1 class="section-heading">Inventory</h1>
 
@@ -2028,7 +2176,7 @@ npm run group-data-force</code></pre>
                                 <span class="font-mono text-slate-200">/inventory.json</span>
                             </div>
                             <a
-                                href="https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/inventory.json"
+                                href="https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/inventory.json"
                                 target="_blank"
                                 class="hover:scale-110 transition-transform duration-200"
                             >
@@ -2105,6 +2253,10 @@ npm run group-data-force</code></pre>
                             <div class="structure-item ml-4">
                                 <span class="structure-key">tools</span>
                                 <span class="structure-type type-object">(object)</span> - Keyed by def_index
+                            </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">pets</span>
+                                <span class="structure-type type-object">(object)</span> - Keyed by pet id and style (&lt;pet_id&gt;_&lt;style&gt;)
                             </div>
                             <div class="structure-item mt-3">
                                 Each item has:

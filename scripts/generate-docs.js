@@ -12,7 +12,7 @@ const endpoints = [
         title: "List all",
         description: "Object with all items accessible by their id.",
         endpoint: "/all.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/all.json",
         jsonFile: "public/api/en/all.json",
         isObject: true, // Special case - it's an object, not an array
     },
@@ -21,7 +21,7 @@ const endpoints = [
         title: "List skins",
         description: "Returns an array of all weapon skins grouped by pattern and wear condition.",
         endpoint: "/skins.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins.json",
         jsonFile: "public/api/en/skins.json",
     },
     {
@@ -29,7 +29,7 @@ const endpoints = [
         title: "List skins not grouped",
         description: "Returns an array of all weapon skins with each wear condition as a separate item.",
         endpoint: "/skins_not_grouped.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins_not_grouped.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/skins_not_grouped.json",
         jsonFile: "public/api/en/skins_not_grouped.json",
     },
     {
@@ -37,7 +37,7 @@ const endpoints = [
         title: "List stickers",
         description: "Returns an array of all available stickers.",
         endpoint: "/stickers.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/stickers.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/stickers.json",
         jsonFile: "public/api/en/stickers.json",
     },
     {
@@ -45,7 +45,7 @@ const endpoints = [
         title: "List sticker slabs",
         description: "Returns an array of sticker slabs (sealed stickers that can be opened).",
         endpoint: "/sticker_slabs.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/sticker_slabs.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/sticker_slabs.json",
         jsonFile: "public/api/en/sticker_slabs.json",
     },
     {
@@ -53,7 +53,7 @@ const endpoints = [
         title: "List keychains",
         description: "Returns an array of all weapon charms/keychains.",
         endpoint: "/keychains.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keychains.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keychains.json",
         jsonFile: "public/api/en/keychains.json",
     },
     {
@@ -61,7 +61,7 @@ const endpoints = [
         title: "List collections",
         description: "Returns an array of all weapon skin collections.",
         endpoint: "/collections.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collections.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collections.json",
         jsonFile: "public/api/en/collections.json",
     },
     {
@@ -70,7 +70,7 @@ const endpoints = [
         description:
             "This list includes cases, capsules, graffiti boxes, music kit boxes and souvenir packages.",
         endpoint: "/crates.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/crates.json",
         jsonFile: "public/api/en/crates.json",
     },
     {
@@ -78,7 +78,7 @@ const endpoints = [
         title: "List keys",
         description: "Returns an array of all case keys.",
         endpoint: "/keys.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/keys.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/keys.json",
         jsonFile: "public/api/en/keys.json",
     },
     {
@@ -86,7 +86,7 @@ const endpoints = [
         title: "List collectibles",
         description: "Returns an array of all collectible items (coins, medals, etc.).",
         endpoint: "/collectibles.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/collectibles.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/collectibles.json",
         jsonFile: "public/api/en/collectibles.json",
     },
     {
@@ -94,7 +94,7 @@ const endpoints = [
         title: "List agents",
         description: "Returns an array of all player agents/characters.",
         endpoint: "/agents.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/agents.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/agents.json",
         jsonFile: "public/api/en/agents.json",
     },
     {
@@ -102,7 +102,7 @@ const endpoints = [
         title: "List patches",
         description: "Returns an array of all agent patches.",
         endpoint: "/patches.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/patches.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/patches.json",
         jsonFile: "public/api/en/patches.json",
     },
     {
@@ -110,7 +110,7 @@ const endpoints = [
         title: "List graffiti",
         description: "Returns an array of all graffiti items.",
         endpoint: "/graffiti.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/graffiti.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/graffiti.json",
         jsonFile: "public/api/en/graffiti.json",
     },
     {
@@ -118,7 +118,7 @@ const endpoints = [
         title: "List music kits",
         description: "Returns an array of all music kits.",
         endpoint: "/music_kits.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/music_kits.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/music_kits.json",
         jsonFile: "public/api/en/music_kits.json",
     },
     {
@@ -126,7 +126,7 @@ const endpoints = [
         title: "List base weapons",
         description: "Returns an array of all base weapons and default items (gloves, knives, etc.).",
         endpoint: "/base_weapons.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/base_weapons.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/base_weapons.json",
         jsonFile: "public/api/en/base_weapons.json",
     },
     {
@@ -134,8 +134,16 @@ const endpoints = [
         title: "List highlights",
         description: "Returns an array of tournament highlight charms.",
         endpoint: "/highlights.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/highlights.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/highlights.json",
         jsonFile: "public/api/en/highlights.json",
+    },
+    {
+        id: "list-pets",
+        title: "List pets",
+        description: "Returns an array of pets, one entry per pet and style (breed color).",
+        endpoint: "/pets.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/pets.json",
+        jsonFile: "public/api/en/pets.json",
     },
     {
         id: "inventory",
@@ -143,7 +151,7 @@ const endpoints = [
         description:
             "All items grouped by category for easy lookup. Skins use weapon_id and paint_index as keys, while other categories use def_index.",
         endpoint: "/inventory.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/inventory.json",
+        url: "https://raw.githubusercontent.com/Qesik/CSGO-API/main/public/api/en/inventory.json",
         jsonFile: "public/api/en/inventory.json",
         isInventory: true,
     },
@@ -157,16 +165,42 @@ function getType(value) {
     return typeof value;
 }
 
-// Function to analyze object structure
-function analyzeStructure(obj, depth = 0, maxDepth = 2) {
-    const fields = [];
+// Walks every item so fields that are null or missing on the first item still get the right type
+function collectFields(items) {
+    const keys = [];
+    const info = {};
 
-    if (depth > maxDepth) {
-        return fields;
+    for (const item of items) {
+        let previous = null;
+
+        for (const [key, value] of Object.entries(item)) {
+            if (!(key in info)) {
+                // Keep optional fields next to the field they follow in the item
+                keys.splice(previous === null ? 0 : keys.indexOf(previous) + 1, 0, key);
+                info[key] = { types: new Set(), nullable: false, count: 0 };
+            }
+
+            info[key].count++;
+            if (value === null) info[key].nullable = true;
+            else info[key].types.add(getType(value));
+
+            previous = key;
+        }
     }
 
-    for (const [key, value] of Object.entries(obj)) {
-        const type = getType(value);
+    return keys.map(key => ({
+        key,
+        types: [...info[key].types],
+        nullable: info[key].nullable,
+        optional: info[key].count < items.length,
+    }));
+}
+
+// Function to analyze object structure
+function analyzeStructure(items) {
+    const fields = [];
+
+    for (const { key, types, nullable, optional } of collectFields(items)) {
         let description = "";
 
         // Generate description based on key name
@@ -200,29 +234,37 @@ function analyzeStructure(obj, depth = 0, maxDepth = 2) {
         else if (key === "thumbnail") description = "Thumbnail image URL";
         else if (key === "rental") description = "Whether it's a rental";
         else if (key === "first_sale_date") description = "First sale date";
+        else if (key === "release_date")
+            description = "Release date, can differ from the first_sale_date of the linked crate";
         else if (key === "contains") description = "Items that can be obtained";
         else if (key === "contains_rare") description = "Rare items (knives, etc.)";
         else if (key === "skin_id") description = "Reference to grouped skin";
         else if (key === "wear") description = "Specific wear condition";
         else if (key === "style") description = "Finish style information";
         else if (key === "original") description = "Original item data";
+        else if (key === "tint") description = "Graffiti tint with hex color";
+        else if (key === "color_index") description = "Graffiti tint index";
+        else if (key === "icon_base") description = "Keychain family";
+        else if (key === "phase") description = "Doppler phase";
+        else if (key === "special_notes")
+            description = "Interesting facts about the item, each with a source link";
+        else if (key === "player") description = "Player information";
+        else if (key === "premier_season") description = "Premier season number";
+        else if (key === "loot_list") description = "Loot list information";
+        else if (key === "paint_index") description = "Paint kit index";
         else description = `${key.replace(/_/g, " ")}`;
 
-        // Handle nullable types
-        let typeStr = type;
-        if (value === null && obj[key] === null) {
-            // Check if other objects have this field as non-null
-            typeStr = "string|null";
-        } else if (value === null) {
-            typeStr = `${getType(obj[key])}|null`;
-        }
+        // Fields that are always null have no other type to show, assume string
+        let typeStr = (types.length > 0 ? types : ["string"]).join("|");
+        if (nullable) typeStr += "|null";
+        if (optional) typeStr += ", optional";
 
         fields.push({
             key,
             type: typeStr,
             description,
-            isObject: type === "object" && !Array.isArray(value) && value !== null,
-            isArray: type === "array",
+            isObject: types.includes("object"),
+            isArray: types.includes("array"),
         });
     }
 
@@ -230,7 +272,7 @@ function analyzeStructure(obj, depth = 0, maxDepth = 2) {
 }
 
 // Function to generate Response Structure HTML
-function generateResponseStructure(sampleObject, isObject = false, isInventory = false) {
+function generateResponseStructure(items, isObject = false, isInventory = false) {
     if (isInventory) {
         return `
                             <div class="structure-item">
@@ -288,6 +330,10 @@ function generateResponseStructure(sampleObject, isObject = false, isInventory =
                                 <span class="structure-key">tools</span>
                                 <span class="structure-type type-object">(object)</span> - Keyed by def_index
                             </div>
+                            <div class="structure-item ml-4">
+                                <span class="structure-key">pets</span>
+                                <span class="structure-type type-object">(object)</span> - Keyed by pet id and style (&lt;pet_id&gt;_&lt;style&gt;)
+                            </div>
                             <div class="structure-item mt-3">
                                 Each item has:
                             </div>
@@ -324,7 +370,7 @@ function generateResponseStructure(sampleObject, isObject = false, isInventory =
                             </div>`;
     }
 
-    const fields = analyzeStructure(sampleObject);
+    const fields = analyzeStructure(items);
 
     let html = `
                             <div class="structure-item">
@@ -333,7 +379,7 @@ function generateResponseStructure(sampleObject, isObject = false, isInventory =
 
     fields.forEach(field => {
         // Extract base type for class (handle cases like "string|null")
-        const baseType = field.type.split("|")[0].split("[")[0];
+        const baseType = field.type.split(/[|,]/)[0].split("[")[0];
         html += `
                             <div class="structure-item ml-4">
                                 <span class="structure-key">${field.key}</span>
@@ -405,30 +451,15 @@ function generateDocs() {
             const jsonContent = fs.readFileSync(jsonPath, "utf8");
             const data = JSON.parse(jsonContent);
 
-            let sampleObject;
-            if (endpoint.isInventory) {
-                sampleObject = data;
-            } else if (endpoint.isObject) {
-                // For objects, get the first value
-                const keys = Object.keys(data);
-                if (keys.length > 0) {
-                    sampleObject = data[keys[0]];
-                } else {
-                    console.warn(`Warning: ${endpoint.id} is empty, skipping`);
-                    return;
-                }
-            } else {
-                // For arrays, get the first element
-                if (Array.isArray(data) && data.length > 0) {
-                    sampleObject = data[0];
-                } else {
-                    console.warn(`Warning: ${endpoint.id} is empty, skipping`);
-                    return;
-                }
+            // Arrays are analyzed item by item. Objects and inventory have a fixed structure description.
+            const items = Array.isArray(data) ? data : Object.values(data);
+            if (items.length === 0) {
+                console.warn(`Warning: ${endpoint.id} is empty, skipping`);
+                return;
             }
 
             const responseStructureHtml = generateResponseStructure(
-                sampleObject,
+                items,
                 endpoint.isObject,
                 endpoint.isInventory
             );

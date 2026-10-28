@@ -1,7 +1,7 @@
 import { LANGUAGES_URL } from "../constants.js";
 
 export const getLanguages = codes => {
-    if (codes.length === 0 || codes.some(c => c.toLowerCase() === "all")) return LANGUAGES_URL;
+    if (codes.some(c => c.toLowerCase() === "all")) return LANGUAGES_URL;
     return LANGUAGES_URL.filter(l => codes.includes(l.folder));
 };
 

@@ -7,6 +7,11 @@ const args = process.argv.slice(2);
 const isForce = args.includes("--force");
 const codes = parseLanguagesArg(args);
 
+if (codes.length === 0) {
+    console.error("Error: no languages specified. Pass --languages en,ru,uk (comma-separated folder codes).");
+    process.exit(1);
+}
+
 const languages = getLanguages(codes);
 
 if (languages.length === 0) {
@@ -28,6 +33,7 @@ const inputFilePathsTemplate = [
     "./public/api/{lang}/sticker_slabs.json",
     "./public/api/{lang}/keychains.json",
     "./public/api/{lang}/tools.json",
+    "./public/api/{lang}/pets.json",
 ];
 
 let existingManifestId = "";
