@@ -1,7 +1,7 @@
 {
   "type": "module",
   "devDependencies": {
-    "prettier": "^3.9.10"
+    "prettier": "^3.10.1"
   },
   "scripts": {
     "update-data": "node update.js --languages en,pl",
@@ -9,6 +9,7 @@
     "update-data-force": "node update.js --force --languages en,pl",
     "group-data-force": "node group.js --force --languages en,pl",
     "generate-docs": "node scripts/generate-docs.js",
+    "diff-json": "node scripts/diff-json.js",
     "format": "prettier --write \"**/*.js\" --ignore-path .gitignore"
   }
 }

@@ -11,7 +11,7 @@ on:
         default: false
         type: boolean
       languages:
-        description: "Comma-separated folder codes (e.g. en,ru,uk) or 'all'. Empty = use vars.LANGUAGES."
+        description: "Comma-separated folder codes (e.g. en,ru,uk) or 'all'. Empty = use vars.LANGUAGES or en,pl."
         required: false
         default: ""
         type: string
@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES }}
+      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES || 'en,pl' }}
       FORCE_FLAG: ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
     steps:
@@ -36,6 +36,16 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: Require English and Polish output
+        shell: bash
+        run: |
+          for language in en pl; do
+            case ",${LANGUAGES// /}," in
+              *,all,*|*,"$language",*) ;;
+              *) echo "::error::This fork requires en and pl in LANGUAGES"; exit 1 ;;
+            esac
+          done
 
       # Update step
       - name: Update data

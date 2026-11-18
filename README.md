@@ -33,7 +33,7 @@ For a refresh that respects the game-manifest and image-mapping cache checks, us
 
 ### GitHub Actions
 
-Set the repository Actions variable **`LANGUAGES=en,pl`** under **Settings > Secrets and variables > Actions > Variables**. The existing **Update and Group JSON API** workflow uses that variable unless its manual `languages` input overrides it; keep that input set to `en,pl` for this fork. The optional `force` input bypasses generation cache checks.
+The **Update and Group JSON API** workflow defaults to **`en,pl`**. You can override it with the repository Actions variable **`LANGUAGES`** under **Settings > Secrets and variables > Actions > Variables**, or with its manual `languages` input. Overrides must include both `en` and `pl` (or `all`); the workflow rejects selections that omit either language. Keep the selection at `en,pl` to publish only this fork's two languages. The optional `force` input bypasses generation cache checks.
 
 The workflow currently supports manual dispatch and the `game-images-updated` repository event; it has no scheduled trigger. Configuring the variable does not synchronize upstream code or arrange upstream notifications to this fork.
 
